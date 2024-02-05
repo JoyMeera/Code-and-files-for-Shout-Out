@@ -1,2 +1,2 @@
 This PHP project takes student feedbacks anonymously. It collects information on how they feel about it and also helps them add as much specifics required as possible. 
-The admin managing the feddbacks can find the feedbacks on their page and they can sort the results as per the area they are interested in. Moreover, they can download the feedbacks to an excel sheet and help process the data easily.
+The admin managing the feedbacks can find the feedbacks on their page and they can sort the results as per the area they are interested in. Moreover, they can download the feedbacks to an excel sheet which helps process the data easily.
